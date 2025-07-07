@@ -6,6 +6,7 @@ Hi! This is my first Python project.  I may be late with the releases because th
 Releases and their codenames (Some of these are only plans and might change in the future):
 
 ##☑️ Requirements
+
 Minimum Requirements for PyCalc Classic 1.0.X and above:
 A Windows Operating System or Linux with Wine installed
 
