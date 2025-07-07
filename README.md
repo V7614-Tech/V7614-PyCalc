@@ -9,14 +9,14 @@ Releases and their codenames (Some of these are only plans and might change in t
 
 Minimum Requirements for PyCalc Classic 1.0.X and above:
 A Windows Operating System or Linux with Wine installed
+---
 
 Recommended Requirements for PyCalc Classic 1.0.X and above:
 The latest version of Windows or Linux with Wine (Wine is a compatibility layer for running Windows apps on Linux and is not installed by default. It is a Linux program)
 
-InDev Preview versions are in development and are for testing purposes before it fully releases.
----
-
 ## 📦 Versions & Codenames
+
+InDev Preview versions are in development and are for testing purposes before it fully releases.
 
 | Versions     | Codename                                      | Release Status      | Latest Stable Release | Latest InDev Preview (Pre-release)                   | Development Status  |
 |--------------|-----------------------------------------------|---------------------|-----------------------|------------------------------------------------------|---------------------|
@@ -29,6 +29,7 @@ InDev Preview versions are in development and are for testing purposes before it
 ---
 
 ## 🚀 Install instructions
+
 1. Make sure you are using Windows or Linux.
 2. (For Linux) Make sure you have Wine installed.
 3. Download the Zip file of the latest non-InDev Preview version unless you want to test them.
@@ -37,6 +38,7 @@ InDev Preview versions are in development and are for testing purposes before it
 6. Start calculating!
 ---
 ## 🐞 Known Bugs
+
 1. If the calculator recieves an invalid output in the action selection, it will ask you for another second/next number. Intended action is to give you an error telling you to type something else.
   Affected versions: PyCalc Classic 1.0.0 and 1.0.1
   Fixed?: Yes, in PyCalc Classic 1.0.2
