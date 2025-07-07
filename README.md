@@ -9,7 +9,6 @@ Releases and their codenames (Some of these are only plans and might change in t
 
 Minimum Requirements for PyCalc Classic 1.0.X and above:
 A Windows Operating System or Linux with Wine installed
-
 Recommended Requirements for PyCalc Classic 1.0.X and above:
 The latest version of Windows or Linux with Wine (Wine is a compatibility layer for running Windows apps on Linux and is not installed by default. It is a Linux program)
 ---
