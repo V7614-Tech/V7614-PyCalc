@@ -5,7 +5,7 @@ It features simple math support, and continuing equations.
 Hi! This is my first Python project.  I may be late with the releases because there might be bugs to fix. It is a Windows executable (.exe) file in the zip so you can run it straight from the zip. The old versions of PyCalc (PyCalc Classic 1.0.0 - 1.0.3 InDev Preview 1) used to be released as a normal Python script, it is now packaged using Auto Py To Exe into a Windows executable.
 Releases and their codenames (Some of these are only plans and might change in the future):
 
-##☑️ Requirements
+## ☑️ Requirements
 
 Minimum Requirements for PyCalc Classic 1.0.X and above:
 A Windows Operating System or Linux with Wine installed
