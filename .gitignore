@@ -5,6 +5,8 @@
 __pycache__/
 *.pyc
 
+# Ignore Source folder
+source/
 # Ignore build folders
 build/
 dist/
