@@ -1,0 +1,17 @@
+# Ignore Python source files
+*.py
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore build folders
+build/
+dist/
+
+# Allow executable files
+!*.exe
+
+# Optional: ignore spec files and temp files
+*.spec
+*.log
