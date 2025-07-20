@@ -2,7 +2,7 @@
 
 *V7614 PyCalc* is a console-based calculator written in Python by me for Windows ([V7614](https://github.com/V7614)).  
 It features simple math support, and continuing equations.
-Hi! This is my first Python project.  I may be late with the releases because there might be bugs to fix. It is a Windows executable (.exe) file in the zip so you can run it straight from the zip. The old versions of PyCalc (PyCalc Classic 1.0.0 - 1.0.3 InDev Preview 1) used to be released as a normal Python script, it is now packaged using Auto Py To Exe into a Windows executable.
+Hi! This is my first Python project.  I may be late with the releases because there might be bugs to fix. It is a Windows executable (.exe) file in the zip file. The old versions of PyCalc (PyCalc Classic 1.0.0 - 1.0.3 InDev Preview 1) used to be released as a normal Python script, it is now packaged using Auto Py To Exe into a Windows executable.
 Releases and their codenames (Some of these are only plans and might change in the future):
 
 ## ☑️ Requirements
@@ -10,7 +10,7 @@ Releases and their codenames (Some of these are only plans and might change in t
 Minimum Requirements V7614 PyCalc:
 A Windows Operating System or Linux with Wine installed
 Recommended Requirements for V7614 PyCalc:
-The latest version of Windows or Linux with Wine (Wine is a compatibility layer for running Windows apps on Linux and is not installed by default. It is a Linux program)
+The latest version of Windows or Linux with Wine (Wine is a compatibility layer for running Windows apps on Linux and is not installed by default or included with V7614 PyCalc (maybe I will include it if I can't package it to a .deb without using Wine). It is a Linux program)
 ---
 
 ## 🚀 Install instructions
