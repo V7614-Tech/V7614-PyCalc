@@ -24,7 +24,7 @@ The latest version of Windows or Linux with Wine (Wine is a compatibility layer 
 ## 🐞 Known Bugs
 
 1. If the calculator recieves an invalid output in the action selection, it will ask you for another second/next number. Intended action is to give you an error telling you to type something else.
-  Affected versions: V7614 PyCalc 0.1.0
+  Affected versions: V7614 PyCalc 0.1.0 and V7614 PyCalc 0.2.0
   Fixed?: The fix for this is already mede. It's just not released yet
   Workaround for affected versions? : Check your spelling before pressing enter
 ---
