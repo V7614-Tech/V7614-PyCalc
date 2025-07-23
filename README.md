@@ -1,30 +1,48 @@
 # V7614 PyCalc
 
-*V7614 PyCalc* is a console-based calculator written in Python by me for Windows ([Vincent V7614](https://github.com/V7614)).  
-It features simple math support, and continuing equations.
-This is my first Python project.  I may be late with the releases because there might be bugs to fix. It is a Windows executable (.exe) file in the zip file.
+*V7614 PyCalc* is a console-based calculator written in Python by [Vincent V7614](https://github.com/V7614), designed for Windows (and Linux with Wine).  
+It features simple math support and continuing equations.
+
+This is my first Python project! Releases may be a bit late if bugs need fixing.  
+PyCalc is packaged as a Windows executable (`.exe`) inside a `.zip` file.
+
+---
 
 ## ☑️ Requirements
 
-Minimum Requirements V7614 PyCalc:
-A Windows Operating System or Linux with Wine installed
-Recommended Requirements for V7614 PyCalc:
-The latest version of Windows or Linux with Wine (Wine is a compatibility layer for running Windows apps on Linux and is not installed by default or included with V7614 PyCalc (maybe I will include it if I can't package it to a .deb without using Wine). It is a Linux program)
+**Minimum Requirements:**
+- A Windows operating system, **or**
+- Linux with Wine installed
+
+**Recommended Requirements:**
+- The latest version of Windows, **or**
+- Linux with Wine
+
+> 💡 **Note:** Wine is a compatibility layer for running Windows applications on Linux.  
+> It is **not** installed by default or included with V7614 PyCalc.  
+> (I might include it in the future if I can't package PyCalc as a `.deb` without Wine.)
+
 ---
 
-## 🚀 Install instructions
+## 🚀 Installation Instructions
 
-1. Make sure you are using Windows or Linux.
-2. (For Linux) Make sure you have Wine installed.
-3. Download the Zip file of the latest non-bets version unless you want to test them.
-4. Extract the zip file.
-5. Run PyCalc.exe in the folder you extracted to.
+1. Make sure you're using **Windows** or **Linux**.
+2. **(Linux only)** Ensure that **Wine** is installed.
+3. Download the latest **non-beta** `.zip` release (unless you want to test beta versions).
+4. Extract the contents of the `.zip` file.
+5. Run `PyCalc.exe` inside the extracted folder.
 6. Start calculating!
+
 ---
+
 ## 🐞 Known Bugs
 
-1. If the calculator recieves an invalid output in the action selection, it will ask you for another second/next number. Intended action is to give you an error telling you to type something else.
-  Affected versions: V7614 PyCalc 0.1.0 and V7614 PyCalc 0.2.0
-  Fixed?: The fix for this is already mede. It's just not released yet
-  Workaround for affected versions? : Check your spelling before pressing enter
+1. **Invalid action input**  
+   - If the calculator receives an invalid action selection, it will ask for the next number instead of showing an error.
+   - **Affected Versions:** `V7614 PyCalc 0.1.0`, `0.2.0`  
+   - **Fixed?:** Yes, fix is complete but not yet released.  
+   - **Workaround:** Double-check your action input before pressing `Enter`.
+
 ---
+
+Made with ❤️ by Vincent V7614 using Python.
