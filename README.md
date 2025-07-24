@@ -41,7 +41,7 @@ Updates will be rolled out 3 times a week, specifically, Sunday, Wednesday, and 
 1. **Invalid action input**  
    - If the calculator receives an invalid action selection, it will ask for the next number instead of showing an error.
    - **Affected Versions:** `V7614 PyCalc 0.1.0`, `0.2.0`  
-   - **Fixed?:** Yes, fix is complete but not yet released.  
+   - **Fixed?:** Yes, the fix is complete and is in the upcomming version `0.2.1` but it is not yet released.  
    - **Workaround:** Double-check your action input before pressing `Enter`.
 
 ---
