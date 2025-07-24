@@ -5,6 +5,7 @@ It features simple math support and continuing equations.
 
 This is my first Python project! Releases may be a bit late if bugs need fixing.  
 PyCalc is packaged as a Windows executable (`.exe`) inside a `.zip` file.
+Updates will be rolled out 3 times a week, specifically, Sunday, Wednesday, and Saturday
 
 ---
 
