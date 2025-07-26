@@ -20,7 +20,7 @@ Updates will be rolled out 3 times a week, specifically, Sunday, Wednesday, and 
 - Linux with Wine
 
 > 💡 **Note:** Wine is a compatibility layer for running Windows applications on Linux.  
-> It is **not** installed by default or included with V7614 PyCalc. Unless your chosen Linux Distribution does not have Wine or any other compatibility layers installed yet (by you) or does not support Wine or those compatibility layers, sorry but V7614 PyCalc will not be able to run your OS 
+> It is **not** installed by default or included with V7614 PyCalc. Unless your chosen Linux Distribution does not have Wine or any other compatibility layers installed yet (by you) or does not support Wine or those compatibility layers, sorry but V7614 PyCalc will not be able to run on your OS 
 
 ---
 
