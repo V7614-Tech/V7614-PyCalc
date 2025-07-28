@@ -9,6 +9,12 @@ Updates will be rolled out 3 times a week, specifically, Sunday, Wednesday, and 
 
 ---
 
+## News!
+
+After 1.0.0, 2.0.0 will come as a rewrite for simplicity
+
+---
+
 ## ☑️ Requirements
 
 **Minimum Requirements:**
