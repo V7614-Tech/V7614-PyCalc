@@ -11,7 +11,7 @@ Updates will be rolled out 3 times a week, specifically, Sunday, Wednesday, and 
 
 ## News!
 
-After 1.0.0, 2.0.0 will come as a rewrite for simplicity
+I AM so sorry that the 1.0.0 update was delayed. Updates will be delayed until further notice.
 
 ---
 
@@ -53,7 +53,7 @@ After 1.0.0, 2.0.0 will come as a rewrite for simplicity
 2. **"Continue" bottleneck**
    - **Details:** The fix for `Known Bug 1.` in `V7614 PyCalc 0.2.1` bottlenecks the "continue" function of the calculator.
    - **Affected versions:** `V7614 PyCalc 0.2.1`
-   - **Fixed?:** Yes, the fix for this bug is in the unreleased `V7614 PyCalc 1.0.0 Beta 1`. `V7614 PyCalc 1.0.0 Beta 1` will be released on Sunday 27th July 2025. If you don't want to install a beta version, you're out of luck and will have to wait for `V7614 PyCalc 1.0.0`'s full release later on Wednesday, 30th July 2025.
+   - **Fixed?:** Yes, the fix for this bug is in the unreleased `V7614 PyCalc 1.0.0 Beta 1`. If you don't want to install a beta version, you're out of luck and will have to wait for `V7614 PyCalc 1.0.0`'s full release later on ???.
    - **Workaround:** This is a bad one. There are **NO** workarounds for this bug.
 ---
 
