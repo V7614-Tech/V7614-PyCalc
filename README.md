@@ -57,8 +57,9 @@ I am proud to announce that V7614 PyCalc version 1.0.0 is finally out! This is a
 
 ## 6️⃣ Launch V7614 PyCalc
 - Use the Desktop shortcut, Start Menu entry, or run it directly from the install folder:  
+Default install location is below:
   ```
-  C:\Program Files\V7614\V7614
+  C:\Program Files\V7614Tech\V7614 PyCalc\
   ```
 - On Linux + Wine, run the `.exe` from your chosen install directory.
 
