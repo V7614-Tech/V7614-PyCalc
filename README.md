@@ -24,35 +24,92 @@ I am proud to announce that V7614 PyCalc version 1.0.0 is finally out! This is a
 
 ---
 
-## ☑️ Requirements
+# 🚀 Installation Instructions for V7614 PyCalc
 
-**Minimum Requirements:**
-- A Windows operating system, **or**
-- Linux with Wine installed
-
-**Recommended Requirements:**
-- The latest version of Windows, **or**
-- Linux with Wine
+## Requirements
+- **Windows** (native) or **Linux** (with Wine installed).
+- macOS users: See notes below.
 
 > 💡 **Note:** Wine is a compatibility layer for running Windows applications on Linux.  
 > It is **not** installed by default or included with V7614 PyCalc. Unless your chosen Linux Distribution does not have Wine or any other compatibility layers installed yet (by you) or does not support Wine or those compatibility layers, sorry but V7614 PyCalc will not be able to run on your OS 
 
 ---
 
-## 🚀 Installation Instructions
+## 1️⃣ Download the latest stable release
+- Grab the newest non-beta `V7614_PyCalc_X.X.X_setup.exe` from the [Releases page](https://github.com/V7614-Tech/V7614-PyCalc/releases).
+- (You can grab a beta if you want to help test features early.)
 
-1. Make sure you're using **Windows** or **Linux**.
-2. **(Linux only)** Ensure that **Wine** is installed.
-3. Download the latest **non-beta** `V7614_PyCalc_X.X.X_setup.exe` release (unless you want to test beta versions).
-4. Open the setup file.
-5. (If your antivirus flags V7614 PyCalc) Add an exception for the setup file
-6. Choose where to install V7614 PyCalc (you can do this with the destination being an external device for a portable install).
-7. Choose whether you want to add a desktop and/or a start menu entry
-8. Let the setup do it's thing.
-9. (If your antivirus also flas `V7614PyCalc.exe`) Add an exception for `V7614PyCalc.exe`
-10. Run V7614 PyCalc from the shortcut the setup added on the desktop, start menu entry, or directly from the directory you installed to (default is C:\<Program Files>\V7614\V7614)
-11. Start calculating!
+## 2️⃣ Run the setup file
+- Double-click the `.exe` installer.
+- If Windows SmartScreen appears, click **More info** → **Run anyway**.
 
+## 3️⃣ Handle antivirus warnings (if any)
+- Some antivirus programs (especially Avast, AVG, etc.) may falsely flag V7614 PyCalc.
+- Add an exception for the setup file if flagged.
+
+## 4️⃣ Choose your installation options
+- Pick your install location (**tip:** you can select an external drive for a portable install).
+- Choose whether to add a Desktop shortcut and/or Start Menu entry.
+
+## 5️⃣ Complete the installation
+- Let the installer finish its work.
+- If your antivirus flags `V7614PyCalc.exe`, add an exception for that file too.
+
+## 6️⃣ Launch V7614 PyCalc
+- Use the Desktop shortcut, Start Menu entry, or run it directly from the install folder:  
+  ```
+  C:\Program Files\V7614\V7614
+  ```
+- On Linux + Wine, run the `.exe` from your chosen install directory.
+
+## 7️⃣ Start calculating! 🎉
+
+---
+
+# 🍷 Installing Wine on Linux
+
+### Ubuntu / Debian / Linux Mint
+```bash
+sudo dpkg --add-architecture i386
+sudo apt update
+sudo apt install wine64 wine32
+```
+
+### Fedora
+```bash
+sudo dnf install wine
+```
+
+### Arch Linux / Manjaro
+```bash
+sudo pacman -S wine
+```
+
+After installing, check Wine is installed:
+```bash
+wine --version
+```
+
+Run V7614 PyCalc with:
+```bash
+wine V7614PyCalc.exe
+```
+
+---
+
+# 🍏 (For macOS Users) Compatibility with Mac OS
+
+macOS does not natively support running Windows apps through Wine as easily as Linux.
+
+Options:
+- **Wine for macOS** (via [WineHQ](https://www.winehq.org) or PlayOnMac) — may be buggy or limited.
+- **Virtual Machine** (recommended for full compatibility):
+  - Parallels Desktop (paid)
+  - VMware Fusion (free for personal use)
+  - UTM (free, QEMU-based)
+- **Boot Camp** (Intel Macs only) — install Windows alongside macOS.
+
+Apple Silicon (M1/M2/M3/M4) Macs cannot use Boot Camp and require virtualization for Windows compatibility.
 ---
 
 ## 🐞 Known Bugs
