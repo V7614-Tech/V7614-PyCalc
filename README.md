@@ -1,4 +1,4 @@
-#⚠ False Positive Notice!
+# ⚠ False Positive Notice!
 
 >Some antivirus programs (especially Avast, AVG, and similar) may incorrectly flag V7614 PyCalc as a virus.
 This is a false positive caused by the way the program is packaged (Python + obfuscation + EXE bundling).
