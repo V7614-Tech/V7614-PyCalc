@@ -8,6 +8,12 @@ Open an issue in the [Issues tab](https://github.com/V7614-Tech/V7614-PyCalc/iss
 Submit the file to your antivirus vendor’s false positive form to help whitelist it.
 Thank you for helping keep V7614 PyCalc safe and accessible to all users. 💙
 
+# Note to other people with a project name similar to PyCalc (and also for @Chill-Astro)
+
+V7614 PyCalc was originally called Python Calculator and I made it to try and master Python. Then I shortened it's name to PyCalc. Very recently I rebranded it again before the release on GitHub. Turns out the name was already used so I rebranded it.
+**V7614 PyCalc and Chill Astro's PyCalc are 2 seperate projects and none of us copied each other. I just had an idea while learning Python.**
+Hope this clears up some confusion with other PyCalc projects.
+
 # V7614 PyCalc
 
 *V7614 PyCalc* is a console-based calculator written in Python by [Vincent V7614](https://github.com/V7614), designed for Windows (and Linux with Wine).  
