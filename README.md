@@ -28,7 +28,7 @@ I am proud to announce that V7614 PyCalc version 1.0.0 is finally out! This is a
 # 🚀 Installation Instructions for V7614 PyCalc
 
 ## Requirements
-- **Windows** (native) or **Linux** (with Wine installed).
+- **Windows** (8/8.1 and higher) (native) or **Linux** (with Wine installed).
 - macOS users: See notes below.
 
 > 💡 **Note:** Wine is a compatibility layer for running Windows applications on Linux.  See how to install Wine on Linux below
