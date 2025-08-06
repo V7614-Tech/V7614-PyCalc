@@ -112,6 +112,7 @@ Options:
 - **Boot Camp** (Intel Macs only) — install Windows alongside macOS.
 
 Apple Silicon (M1/M2/M3/M4) Macs cannot use Boot Camp and require virtualization for Windows compatibility.
+
 ---
 
 ## 🐞 Known Bugs
