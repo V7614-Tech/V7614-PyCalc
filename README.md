@@ -27,7 +27,7 @@ Hope this clears up any confusion with other PyCalc projects.
 
 ---
 
-# 🧮 V7614 PyCalc
+# **V7614 PyCalc**
 
 *V7614 PyCalc* is a console-based calculator written in Python by [Vincent V7614](https://github.com/V7614), designed for **Windows** (and **Linux with Wine**).  
 It supports basic math operations and continuing equations.
