@@ -40,8 +40,7 @@ V7614 PyCalc is made with **Python 3.13.0** and packaged into a Windows `.exe` f
 
 ## 🆕 News!
 
-> In version **2.0.0** (a full rewrite to make it simpler to use), there will be a **native Linux version**.  
-> This means I’ll have to get Linux Mint working on my PC soon so Linux users can enjoy native support too!
+> 13th August 2025: V7614 PyCalc 1.1.0 will add **NATIVE** support for Debian/Ubuntu based distros
 
 ---
 
@@ -49,9 +48,16 @@ V7614 PyCalc is made with **Python 3.13.0** and packaged into a Windows `.exe` f
 
 ## Requirements
 
-### For versions 1.0.0 and under
+### For versions 0.1.0-1.0.0
 - **Windows** 8/8.1 or higher (native)  
 - **Linux** (with Wine installed)  
+- **macOS users**: See the notes below.
+
+---
+
+### For future versions (1.1.0 and above)
+- **Windows** 8/8.1 or higher (native)  
+- **Linux** (Debian, Ubuntu, Mint, or any other Debian/Ubuntu based distros) (native)  
 - **macOS users**: See the notes below.
 
 > 💡 **Note:** Wine is a compatibility layer for running Windows apps on Linux. It is **not** installed by default.  

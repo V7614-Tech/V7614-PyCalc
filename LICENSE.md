@@ -1,5 +1,5 @@
 V7614 PyCalc – Proprietary Software License Agreement
-Version 1.1 – Effective since 11th August, 2025
+Version 1.1 – Effective since 13th August, 2025
 
 Copyright (c) 2025 Vincent V7614 and V7614 Tech Team
 All rights reserved.
