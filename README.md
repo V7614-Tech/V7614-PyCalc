@@ -40,7 +40,7 @@ V7614 PyCalc is made with **Python 3.13.0** and packaged into a Windows `.exe` f
 
 ## 🆕 News!
 
-> 13th August 2025: V7614 PyCalc 1.1.0 will add **NATIVE** support for Debian/Ubuntu based distros
+> 13th August 2025: V7614 PyCalc 1.1.0 will add **NATIVE** support for Debian/Ubuntu based distros, and coming with this is source code for V7614 PyCalc version 1.1.0 will be out as well, since after the rewrite the old code will be useless, so there it will be for people learning Python (V7614 PyCalc 2.0.0 won't get this treatment because by then, it is too complex for begginers and it's source code won't be open to the publis)
 
 ---
 
