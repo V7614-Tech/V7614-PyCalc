@@ -1,5 +1,5 @@
 V7614 PyCalc – Proprietary Software License Agreement
-Version 1.1 – Effective since 13th August, 2025
+Version 1.2 – Effective since 17th August, 2025
 
 Copyright (c) 2025 Vincent V7614 and V7614 Tech Team
 All rights reserved.
@@ -25,7 +25,7 @@ No other person or entity is granted any rights to the Software.
    (d) Reverse engineer, decompile, or disassemble the Software.
 4. Confidentiality
    The Software is confidential and proprietary. Unauthorized access, use, or disclosure
-   is strictly prohibited and may result in legal action.
+   is strictly prohibited and may result in legal action. Only source code that is opened to the public by the organization (V7614 Tech) is allowed to be used for EDUCATIONAL PURPOSES!
 5. Termination
    Any breach of this License by an unauthorized party will result in immediate
    termination of rights and may lead to legal consequences.
