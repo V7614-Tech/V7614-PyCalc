@@ -4,7 +4,7 @@ Version 1.2 – Effective since 17th August, 2025
 Copyright (c) 2025 Vincent V7614 and V7614 Tech Team
 All rights reserved.
 
-V7614 PyCalc will only be distributed for free and AS-IS
+V7614 PyCalc will only be distributed for free and AS-IS.
 
 1. Ownership
    V7614 PyCalc (“the Software”) and all associated source code, documentation,
@@ -19,7 +19,7 @@ No other person or entity is granted any rights to the Software.
 
 3. Restrictions
    Except as expressly authorized by the copyright holder, you may not:
-   (a) Copy, reproduce, or distribute the Software, in whole or in part;
+   (a) Copy, reproduce, or distribute the Software, in whole or in part, unless is distributed through this link;
    (b) Modify, adapt, translate, or create derivative works of the Software;
    (c) Publish, disclose, sublicense, rent, lease, sell, or otherwise transfer the Software;
    (d) Reverse engineer, decompile, or disassemble the Software.
