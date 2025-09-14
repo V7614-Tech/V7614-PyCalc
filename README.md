@@ -1,3 +1,9 @@
+# 👋 EOL Notice!
+
+This project's development will be stopped after the next update (v1.1.0), source code will be released, and will be archived. The currently chosen name is `VCalc` which will add Debian/Ubuntu based Linux Distributions/Distros, C and Powershell versions, and more sooner into development. `v1.1.0` will check for updates to `https://github.com/V7614Tech\VCalc\`.
+
+---
+
 # ⚠ False Positive Notice!
 
 > Some antivirus programs (especially Avast, AVG, and similar) may incorrectly flag V7614 PyCalc as a virus.  
@@ -47,7 +53,7 @@ V7614 PyCalc is made with **Python 3.13.0** and packaged into a Windows `.exe` f
 
 ## 🆕 News!
 
-> 13th August 2025: V7614 PyCalc 1.1.0 will add **NATIVE** support for Debian/Ubuntu based distros, and coming with this is source code for V7614 PyCalc version 1.1.0 will be out as well, since after the rewrite the old code will be useless, so there it will be for people learning Python (V7614 PyCalc 2.0.0 won't get this treatment because by then, it is too complex for begginers and it's source code won't be open to the publis)
+> 14th August 2025: V7614 PyCalc 1.1.0 won't add support for Debian/Ubuntu based distros anymore due to constraints (info is above), and coming with this is source code for V7614 PyCalc version 1.1.0 will be out as well, since after the rewrite the old code will be useless, so there it will be for people learning Python (V7614 PyCalc 2.0.0 won't get this treatment because by then, it is too complex for begginers and it's source code won't be open to the publis)
 
 ---
 
