@@ -1,6 +1,6 @@
 # 👋 EOL Notice!
 
-This project's development will be stopped after the next update (v1.1.0), source code will be released, and will be archived. The currently chosen name is `VCalc` which will add Debian/Ubuntu based Linux Distributions/Distros, C and Powershell versions, and more sooner into development. `v1.1.0` will check for updates to `https://github.com/V7614Tech\VCalc\`.
+This project's development has stopped. Stay tuned for VCalc 0.1.0!
 
 ---
 
